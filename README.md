@@ -1,4 +1,4 @@
-# Waveshare ePaper 7.3
+# Waveshare ePaper 7.3 demo
 AI gen image for waveshare 7.3'' ePaper display
 
 This project uses a [Waveshare 7.3-inch e-Paper HAT (4-color)](https://www.waveshare.com/wiki/7.3inch_e-Paper_HAT_(G)), but any 7.3'' display with Raspberry HAT can be installed, including full-color screens.
