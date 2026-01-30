@@ -79,7 +79,7 @@ def prepare_for_display(img: Image.Image, w=DISPLAY_W, h=DISPLAY_H) -> Image.Ima
 
 # Gemini: generate picture
 def generate_image_with_gemini(prompt: str) -> Image.Image:
-    api_key = "insear-your-api-key-here"
+    api_key = "put-your-api-key-here"
     client = genai.Client(api_key=api_key)
 
     response = client.models.generate_content(
