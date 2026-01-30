@@ -24,7 +24,7 @@ DISPLAY_H = 480
 GEMINI_MODEL = "gemini-2.5-flash-image"
 DEFAULT_PROMPT = (
     "Generate horisontal picture for photo frame in sci-fi style"
-    "Stylize for e-Ink screen with 4 colors (black, white, red, yellow"
+    "Stylize for e-Ink screen with 4 colors (black, white, red, yellow)"
     "High contrash, without text, no logo, no frames"
 )
 
